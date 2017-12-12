@@ -1,0 +1,186 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+    width: 970px;
+    padding: 10px;
+    margin: 0px auto;
+}
+.header img{
+    width: 85px;
+    position: absolute;
+}
+.header h1{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 32px;
+    margin-left: 85px;
+}
+.header span{
+    color: #1d669a;
+}
+.header h2{
+    background-color: #2a6d9d;
+    color: white;
+    padding: 10px;
+    text-indent: 10px;
+}
+.left-content{
+    width: 160px;
+    height: 240px;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-bottom-color: #c0c0c0;
+    display: inline-block;
+}
+.left-content-ad-box{
+    margin-top: 40px;
+}
+.left-content p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#first span{
+    color: #e03238;
+}
+#second span{
+    color: #3676a4;
+}
+.left-content button{
+    width: 155px;
+    height: 35px;
+    color: white;
+    font-size: 14px;
+    border-radius: 10px;
+    margin-top: 2px;
+    border: none;
+}
+#watch-a-video-button{
+    background-color: #3578a7;
+}
+#more-resources-button{
+    background-color: #f4771a;
+}
+.left-content-ad-box{
+    background-image: url("./images/ad_background.png");
+    width: 160px;
+    height: 245px;
+    color: white;
+}
+.left-content-ad-box p{
+    text-align: center;
+    padding: 20px 20px 0px;
+    margin-bottom: 0px;
+    font-size: 17px;
+}
+#ninja-image{
+    width: 40%;
+    display: block;
+    margin: auto;
+}
+.left-content-ad-box button{
+    background-color: #36cadc;
+    width: 150px;
+    padding: 10px;
+    margin-top: 15px;   
+    margin-left: 5px;
+}
+.right-content{
+    width: 766px;
+    height: 690px;
+    padding: 0px 10px 10px;
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.right-content-top{
+    height: 70px;
+    border-bottom: 2px solid #bbbbbb;
+}
+#home-icon{
+    width: 15px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5px;
+}
+.right-content-top p{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5px;
+    color: #5086ad;
+}
+.contact-info{
+    display: inline-block;
+    margin-left: 539px;
+}
+#phone-icon{
+    width: 30px;
+    margin-top:12px;
+    vertical-align: top;
+}
+.contact-info ul{
+    list-style: none;
+    display: inline-block;
+    text-align: right;
+}
+.contact-info li{
+    font-size: 10px;
+}
+#phone-number{
+    color: #01c0dc;
+    font-size: 25px;
+}
+.clients-servers-what-happens h3{
+    color: #296e9f;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.clients-servers-what-happens ul{
+    margin-left: 40px;
+    margin-top: 4px;
+}
+.clients-servers-what-happens ol{
+    margin-left: 40px;
+}
+.clients-servers-what-happens li{
+    margin-bottom: 3px;
+}
+.clients-servers-what-happens span{
+    color: #0e9eb1;
+}
+.span-bold{
+    color: black;
+    font-weight: bold;
+}
+#client-server-image{
+    width: 230px;
+    margin-left: 190px;
+}
+.the-big-3{
+    width: 674px;
+    padding: 5px;
+    margin-top: 20px;
+    border: 3px solid #0187da;
+    border-bottom: 0px;
+}
+#big-3-image{
+    width: 110px;
+}
+.the-big-3 ul{
+    list-style: none;
+    display: inline-block;
+    width: 560px;
+    margin-left: 0px;
+    vertical-align: top;
+}
+.the-big-3 p{
+    font-size: 14px;
+    width: 542px;
+}
+.the-big-3 h2{
+    color: #276d9e;
+    width: 542px;
+}
